@@ -13,6 +13,8 @@ blablabla
 
 ### Установка VSCode на ваш ПК.
 
+fffffffffffffffffffffffff
+
 ### Установка git на ваш ПК
 Чтобы установить Git на Windows, вам нужно скачать установщик с сайта Git
 
