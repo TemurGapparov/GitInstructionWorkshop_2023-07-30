@@ -13,6 +13,7 @@ blablabla
 
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
+йййййййййййййййййййййй
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
